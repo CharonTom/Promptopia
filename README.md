@@ -30,8 +30,8 @@ Elle permet aux utilisateurs de pouvoir publier et partager leurs prompts préf�
 
 ### Pour plus de détails
 
-N'hésitez pas à cloner ce repo
+N'hésitez pas à cloner ce repo.
 
-Le Front comme le back est héberger sur Vercel, vous pouvez tester l'application ici : https://promptopia-charontom.vercel.app/profile
+Le front et le back sont hébergés sur Vercel, vous pouvez tester l'application ici : https://promptopia-charontom.vercel.app/profile
 
 
