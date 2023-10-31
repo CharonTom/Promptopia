@@ -24,6 +24,7 @@ Elle permet aux utilisateurs de pouvoir publier et partager leurs prompts pr√©f√
 - Next.js
 - Next-auth
 - TailwindCSS
+- MongoDB
 
 ---
 
