@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
 
-## Getting Started
+Promptopia est une application Full-stack, qui a pour thème sur le partage de prompts ChatGPT.
+Elle permet aux utilisateurs de pouvoir publier et partager leurs prompts préférés.
 
-First, run the development server:
+### Fonctionnalités
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Un utilisateur à possibilité de se connecter via son compte Google.
+- Toutes les publications sont visibles sur la page d'accueil.
+- Il est possible de filtrer les publications par tag, par profil, ou par texte via une barre de recherche.
+- Il est possible de consulter un autre profil.
+- Il est possible d'éditer ou de supprimer une de ses publications via son profil personnel.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Utilisation de Next.js 13
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Utilisation de Server Side Rendering (SSR)
+- Routing basée sur l'arborescence des fichiers (File-based Routing).
+- Back-end intégré au framework (Next Serverless Route Handlers)
+- Metadata and Search Engine Optimization (SEO) 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Technologies utilisées
 
-## Learn More
+- React
+- Next.js
+- Next-auth
+- TailwindCSS
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Pour plus de détails
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+N'hésitez pas à cloner ce repo
 
-## Deploy on Vercel
+Le Front comme le back est héberger sur Vercel, vous pouvez tester l'application ici : https://promptopia-charontom.vercel.app/profile
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
