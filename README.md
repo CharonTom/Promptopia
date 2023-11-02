@@ -3,7 +3,9 @@
 Promptopia est une application Full-stack, qui a pour thème le partage de prompts ChatGPT.
 Elle permet aux utilisateurs de pouvoir publier et partager leurs prompts préférés.
 
+<p align="center">
 <img src="https://github.com/CharonTom/my-website/blob/main/src/assets/img/promptopia.png" alt="application sur pc et mobile" width="500"/>
+</p>v
 
 ### Fonctionnalités
 
